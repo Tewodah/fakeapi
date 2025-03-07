@@ -2,18 +2,18 @@
 	"posts": [
 		{
 			"id": 1,
-			"title": "Create a login form using formik in react js",
-			"body": "Todays article will demonstrate how to develop a login form in react js using formik."
+			"title": "Mastering Formik: Building a Robust Login Form in React",
+			"body": "In this comprehensive guide, we will explore how to create a robust and user-friendly login form in React using Formik. Learn best practices and advanced techniques."
 		},
 		{
 			"id": 2,
-			"title": "How to parse or read CSV files in ReactJS",
-			"body": "In this article, I will teach you how to parse or read CSV files in ReactJS in the simplest way possible. "
+			"title": "Effortless CSV Parsing in React: A Step-by-Step Guide",
+			"body": "Discover the easiest way to parse and read CSV files in ReactJS. This article provides a step-by-step guide to handling CSV data efficiently in your React applications."
 		},
 		{
 			"id": 3,
-			"title": "How to parse or read CSV files in ReactJS",
-			"body": "In this article, I will teach you how to parse or read CSV files in ReactJS in the simplest way possible. "
+			"title": "Advanced CSV Handling in React: Tips and Tricks",
+			"body": "Take your CSV parsing skills to the next level with this advanced guide. Learn tips and tricks for handling large CSV files and optimizing performance in ReactJS."
 		}
 	]
 }
